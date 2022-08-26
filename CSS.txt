@@ -1,0 +1,1 @@
+add some background color, give size to elements and align items
